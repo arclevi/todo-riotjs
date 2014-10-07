@@ -26,3 +26,7 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+# Bower
+/bower_components/riotjs/lib
+/bower_components/jquery/src
